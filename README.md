@@ -1,3 +1,3 @@
 # OpengGLSamples
 
-![alt text](https://github.com/mosesnova/OpenGLSamples/blob/master/openGL.jpg)
+![alt text](https://github.com/mosesnova/OpenglSamples/blob/master/openGL.jpg)
