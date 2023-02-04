@@ -7,3 +7,5 @@
 ![alt text](https://github.com/mosesnova/OpengGLSamples/blob/master/novaar.jpg)
 
 ![alt text](https://github.com/mosesnova/OpengGLSamples/blob/master/mk3.jpg)
+
+![alt text](https://github.com/mosesnova/OpengGLSamples/blob/master/sch.jpg)
